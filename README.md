@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-Worked with Next.js dashboard tutorial to grasp the features and functionalities nextjs like 
+Worked with Next.js dashboard tutorial to grasp the features and functionalities of nextjs like 
 
 --->App Routing 
 --->File Routing
