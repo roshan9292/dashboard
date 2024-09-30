@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+This is a nextjs starter course for building base for basic concept and features of nextjs like
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+-->App Routing and File Routing
+-->Server Compnents,Client Components
+-->Styling
+-->Rendering
+-->Database Connectivity
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+Live on  https://dashboard---demo.vercel.app/dashboard
